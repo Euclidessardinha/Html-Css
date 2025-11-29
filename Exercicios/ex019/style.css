@@ -178,7 +178,8 @@ footer{
 }
 
 main img{
-
+    min-width: 100px;
+    
     display: block;
     margin: auto;
 
