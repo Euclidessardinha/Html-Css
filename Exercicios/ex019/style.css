@@ -178,12 +178,11 @@ footer{
 }
 
 main img{
-    min-width: 100px;
-    
     display: block;
     margin: auto;
 
 }
+
 
 aside{
     background-color: var(--cor1);
