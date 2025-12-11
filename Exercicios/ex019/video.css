@@ -1,0 +1,54 @@
+
+
+
+
+:root{
+    --cor0:#f7f3e0;
+    --cor1:#c5ebd6;
+    --cor2:#83e1ad;
+    --cor3:#3ddc84;
+    --cor4:#2fa866;
+    --cor5:#1a5c37;
+    --cor6:#063d1e;
+    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-destaque:'Bebas Neue', cursive;
+    --fonte-android:'Android', cursive;
+
+}
+
+body{
+     
+    
+ 
+}
+
+header{
+    width: 50px;
+}
+
+
+
+
+.video1{
+    margin-bottom:10px;
+    margin-top: 50px;
+}
+
+.video2{
+    margin-top: 20px;
+}
+
+header {
+    margin-top: 10px;
+    padding-bottom: 10px;
+    padding
+    width: 100px;    
+    height: 30px;
+    background: var(--cor3);
+   border-radius: 10px;
+   text-align: center;
+}
+
+header a{
+    text-decoration: none;
+    color: white;
